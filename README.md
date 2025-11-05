@@ -14,4 +14,6 @@ The tech world is vast, and there's always something new to discover. I'm on a c
 
 Whether you're interested in collaborating, discussing tech, or just want to say hi, I'd love to connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpiontko-blue?logo=linkedin)](https://www.linkedin.com/in/piontko/)
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpiontko-blue?logo=linkedin)](https://www.linkedin.com/in/piontko/)
+
+Personal Blog: [![Blog](https://img.shields.io/badge/Jekyll-C00?logo=jekyll)](https://www.npiontko.pro/)

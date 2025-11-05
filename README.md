@@ -1,6 +1,6 @@
 # Hello, World! 🌍 I'm Nazarii Piontko
 
-I'm a **Lead Software Engineer** with a penchant for fun and innovative projects. While I work professionally at **Future Processing**, my GitHub is a playground where I experiment, learn, and most importantly, have fun!
+I'm a **Lead Software Engineer** and **Solutions Architect** with a penchant for fun and innovative projects. My GitHub is a playground where I experiment, learn, and most importantly, have fun!
 
 ## 🎮 Fun Projects Overview
 
